@@ -36,7 +36,7 @@ pipeline {
                     }
                     }
                     steps {
-                        echo 'Running the integration test'
+                        echo 'Running my integration test'
                     }                 
                 }
             }
